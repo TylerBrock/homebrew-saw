@@ -4,7 +4,7 @@ class Saw < Formula
   url "https://github.com/TylerBrock/saw/archive/v0.0.5.tar.gz"
   head "https://github.com/TylerBrock/saw.git"
   version "0.0.5"
-  sha256 "90aebe4e2a8da07dce9c95d3ef0780f9946566efec19c44c119d0882776e4e17"
+  sha256 "e1676ea272e8cd30d7661d0b11a05feccdbc606067e9b8297c3285545f882e5b"
   depends_on "go" => :build
   depends_on "dep" => :build
 
